@@ -1,7 +1,7 @@
 ## Shanghai.pm
 
 Welcome to Shanghai.pm, a Perl Mongers group for Shanghai, China.
-To join discussions with existing members, please join our mailing list.
+To join discussions with existing members, please join our [mailing list](http://mail.pm.org/mailman/listinfo/shanghai-pm).
 
 
 More to come ...
