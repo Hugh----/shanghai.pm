@@ -1,3 +1,5 @@
+![Shanghai.pm](/pmlogo.png)
+
 ## Shanghai.pm
 
 Welcome to Shanghai.pm, a Perl Mongers group for Shanghai, China.
